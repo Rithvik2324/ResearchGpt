@@ -1,0 +1,2 @@
+# Ignore backups of nested git repos
+.git_backups/
